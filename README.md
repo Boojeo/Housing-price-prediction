@@ -5,22 +5,22 @@ Instead of relying on machine learning libraries like scikit-learn for training,
 
 ## Project Overview
   
-  - Dataset: Housing.csv (with at least two olumns: area and price)
+  - Dataset: Housing.csv
   
-  Input Feature: Area of the house
+  - Input Feature: Area of the house
   
-  Target: Price of the house
+  - Target: Price of the house
   
-  Approach:
+## Approach:
   
-  Normalize the data
+  - Normalize the data
   
-  Implement cost function (MSE)
+  - Implement cost function (MSE)
   
-  Implement gradient computation
+  - Implement gradient computation
   
-  Perform gradient descent optimization
+  - Perform gradient descent optimization
   
-  Train the model and evaluate cost
+  - Train the model and evaluate cost
   
-  Visualize training progress and predictions
+  - Visualize training progress and predictions
