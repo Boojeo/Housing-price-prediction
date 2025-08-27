@@ -1,12 +1,11 @@
-#🏠 Housing-price-prediction
-Housing Price Prediction (from Scratch with One Variable)
+# 🏠 Housing Price Prediction (from Scratch with One Variable)
 
 This project demonstrates how to implement linear regression from scratch using only one feature (area) to predict housing prices.
 Instead of relying on machine learning libraries like scikit-learn for training, we manually implement gradient descent, cost computation, and prediction to understand the fundamentals of regression.
 
-Project Overview
+## Project Overview
   
-  Dataset: Housing.csv (with at least two olumns: area and price)
+  - Dataset: Housing.csv (with at least two olumns: area and price)
   
   Input Feature: Area of the house
   
